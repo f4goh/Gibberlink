@@ -62,7 +62,7 @@ Le projet original possède beaucoup plus de fonctionnalités que cette impléme
 
 Cette version Arduino ne conserve que la partie nécessaire à la génération des données codées et des tons.
 
-Autre projet :
+Autre projet de indomptableBar:
 
 -[Le projet git](https://github.com/indomptableBar/gibberlink-talk)
 
@@ -80,7 +80,7 @@ Il peut être utilisé pour vérifier qu'un signal généré par le projet est c
 
 ![Configuration du décodeur](images/configDecodeur.png)
 
-![configDecodeur.png](images/configDecodeur.png)
+![Réception](images/reception.png)
 
 ---
 
