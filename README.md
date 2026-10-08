@@ -34,7 +34,9 @@ Suite de tons
 
 Le résultat final est une liste de valeurs représentant les tons à transmettre.
 
-Le signal audio peut ensuite être généré directement par l'Arduino, par exemple avec un buzzer, un haut-parleur ou un autre système de génération de signal.
+Le signal audio peut ensuite être généré directement par l'Arduino, par exemple avec un buzzer(gpio 10), un haut-parleur ou un autre système de génération de signal.
+
+La version sur rpi pico génère un signal HF sur 7100kHz en utilisant le circuit du projet [wspr-pico](https://github.com/f4goh/wspr-pico)
 
 ---
 
